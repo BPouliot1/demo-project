@@ -1,1 +1,1 @@
-# demo-project
+# first-day-repo
